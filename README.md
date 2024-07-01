@@ -1,2 +1,2 @@
 # finetunningGemmaLLM
-Fine tunned gemma on MathQues dataset on Kaggle
+Fine tunned gemma on coding dataset on Kaggle
